@@ -4,7 +4,7 @@
   
 ### Project description
 <ul>
-<li>This is a data wrangling and analyzing project aiming to wrangle and analyze data from three separated datasets.</li>
+<li>This is a data wrangling and analyzing project aiming to wrangle and analyze data from three separated datasets:</li>
 
 <ul>
 <li>twitter archive dataset that contains 2356 row and 17attributes, image-predictions dataset that contain 2074 row and 12 column and tweet json dataset that is supposed to be by Twitter's API which contains 2354 row and 31 column.</li>
